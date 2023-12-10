@@ -1,25 +1,25 @@
-#Задача многоклассовой классификации
+## Задача многоклассовой классификации
 
-##Ссылка на колаб: https://colab.research.google.com/drive/1EpnhWrpVo_fQ-9eW7Ds3kw-O0zjblnqk?usp=sharing
+### Ссылка на колаб: https://colab.research.google.com/drive/1EpnhWrpVo_fQ-9eW7Ds3kw-O0zjblnqk?usp=sharing
 
-##Классы
--airplane 
--automobile
--bird
--cat
--deer
--dog
--frog
--horse
--ship
--truck
+### Классы
+- airplane 
+- automobile
+- bird
+- cat
+- deer
+- dog
+- frog
+- horse
+- ship
+- truck
 
-#Архитектура: MobileNetV2
--optimizer: Adam
--lr:0.001
--beta_1, beta_2 по умолчанию
--epochs: 10
--batch: 32
+### Архитектура: MobileNetV2
+- optimizer: Adam
+- lr:0.001
+- beta_1, beta_2 по умолчанию
+- epochs: 10
+- batch: 32
 
 | class      | presicion          | recall | f1                 |
 |------------|--------------------|--------|--------------------|
