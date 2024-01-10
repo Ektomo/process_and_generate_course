@@ -1,0 +1,12 @@
+## Задача детекции аномалий
+
+### Ссылка на колаб: https://colab.research.google.com/drive/14b19vAQUAjkbp2p4Iwbzxs1kgdV4fAHW?usp=sharing
+
+### Архитектура: AutoEncoder
+- optimizer: Adam
+- lr:0.001
+- epochs: 25+5
+- batch: 256
+
+### Метрики 
+
