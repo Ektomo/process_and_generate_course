@@ -9,8 +9,8 @@
 - batch: 256
 
 ### Метрики 
-True Positive Rate (TPR): 0.92
-True Negative Rate (TNR): 0.92
+- True Positive Rate (TPR): 0.92
+- True Negative Rate (TNR): 0.92
 
 
 Сделал огромное множество итераций
